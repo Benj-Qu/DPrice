@@ -19,4 +19,4 @@ market demand or economic conditions. Future work could explore additional varia
 regression techniques like Lasso or Elastic Net regression, broader datasets, or sentiment analysis of
 customer reviews to further improve the model.
 
-For more information please check the [report](DPrice_rpt.pdf) and the [presentation](DPrice_pre.pdf).
+For more information please check the [report](https://github.com/Benj-Qu/DPrice/blob/ee74c0631986771dd21c3eb2fe83b1ce5a65b366/DPrice_rpt.pdf) and the [presentation](https://github.com/Benj-Qu/DPrice/blob/ee74c0631986771dd21c3eb2fe83b1ce5a65b366/DPrice_pre.pdf).
