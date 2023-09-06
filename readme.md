@@ -18,3 +18,5 @@ However, there's an acknowledgment that the models might not account for all pot
 market demand or economic conditions. Future work could explore additional variables, advanced
 regression techniques like Lasso or Elastic Net regression, broader datasets, or sentiment analysis of
 customer reviews to further improve the model.
+
+For more information please check the [report](DPrice_rpt.pdf) and the [presentation](DPrice_pre.pdf).
